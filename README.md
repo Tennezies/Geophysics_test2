@@ -1,8 +1,8 @@
 # Geophysics_test2
 Ngan nee P ohm.
-## Gu ngon
-###Tutorial
-Fu yuck
+## 55
+##56
 $$
-x=x+10
+X=4+3
 $$
+**NaCl**
