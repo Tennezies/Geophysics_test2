@@ -9,4 +9,4 @@ $$
 X=10+1
 $$
 
-![capture] 
+![capture]
