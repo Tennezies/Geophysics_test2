@@ -4,3 +4,7 @@ arai1
 Arai
 ### HAAA
 ARAI
+$$
+X=10+1
+$$
+![capture] 
